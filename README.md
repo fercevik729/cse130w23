@@ -1,6 +1,6 @@
 # CSE 130 Winter 23 Project Repository
 
-Use this repository to maintain and submit your code for CSE 130.  You
-will maintain the source code for each assignment in a separate
-directory; i.e., maintain code for assignment 0 within the directory
-asgn0.
+My completed assignments for UCSC's CSE 130 class, taught by Professor Quinn and Veenstra in Winter 2023. 
+
+## Disclaimer
+These assignments are my own work and should not be plagiarized by any future students. I do not bear responsibility if you decide to do so and punitive measures are taken against you. 
